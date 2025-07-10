@@ -8,8 +8,6 @@
 header {
     display: flex;
     height: 80px;
-    position: fixed;
-    top: 0;
     width: 100%;
     justify-content: space-between;
     align-items: center;
@@ -115,7 +113,6 @@ nav a sup {
 
 .slider-container {
     box-sizing: content-box;
-    margin-top: 102px;
     padding-top: 20px;
     padding-bottom: 15px;
     height: 384px;
