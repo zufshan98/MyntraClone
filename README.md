@@ -8,7 +8,7 @@ This project recreates the visual design and layout of the Myntra homepage, focu
 
 ## 🚀 Live Demo
 
-👉 https://your-live-demo-link.com
+👉 https://myntra-clone-eight-amber.vercel.app/
 
 ---
 
